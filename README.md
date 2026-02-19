@@ -16,7 +16,7 @@ This project demonstrates how two Azure resources — a Storage Account and a Lo
 ### 🪧Demonstration
 
 #### Static Website Interface
-![Website](demonstrations/hosted_static_website.png)
+![Website](demonstrations/hosted_static_website.png) ![demo](demonstrations/static.png)
 *Users can visit the static website throught the primary endpoint url and upload the image*
 
 ---
